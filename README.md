@@ -6,6 +6,8 @@ I'm currently studying Software and Computer Engineering in [ISEL](https://www.i
 I'm very passionate about computers and programming and started programming in 2016.
 
 
-Check out my [Website](https://sites.google.com/view/nyckollasbrandao) and [LinkedIn profile](https://linkedin.com/in/nyckollas-brandao).
+My [Website](https://sites.google.com/view/nyckollasbrandao)
 
-<!-- My resumee/curriculum vitae: Portuguese | English -->
+My [Resumee](https://www.canva.com/design/DAE1y6Yn6BM/6NUyKJPSVvh-rW-Cd75SnQ/view?utm_content=DAE1y6Yn6BM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+My [LinkedIn profile](https://linkedin.com/in/nyckollas-brandao)
