@@ -1,7 +1,7 @@
 # Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I'm Nyckollas Brandão, but you can call me Nyck!
 
 # 🙋‍♂️ About me
-* 🌐 Check more about me in [my website](https://www.nyckoka.github.io/)
+* 🌐 Check more about me in [my website](https://nyckoka.github.io/)
 * 📄 My resumee is [here](https://www.canva.com/design/DAE1y6Yn6BM/6NUyKJPSVvh-rW-Cd75SnQ/view?utm_content=DAE1y6Yn6BM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 * 📖 I'm currently studying Software and Computer Engineering in [ISEL](https://www.isel.pt/), in Portugal
 * 💻 Started programming in 2016.
