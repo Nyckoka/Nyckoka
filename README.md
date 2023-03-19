@@ -10,6 +10,11 @@
 * * 🧠 Learning about the human brain;
 * * 🔠 Learning new languages. [Duolingo](https://www.duolingo.com/) is my buddy!
 
+### Check projects I created with my college colleagues in our team/organization's repository:
+<a href="https://github.com/bodybuilders-team">
+  <img src="https://img.shields.io/badge/Bodybuilders%20Team-Organization-blue?style=for-the-badge&logo=github" alt="Bodybuilders Team">
+</a>
+
 # 🤝 Connect with me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nyckollas-brandao/)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/7281468/nyck)
