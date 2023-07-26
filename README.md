@@ -3,7 +3,7 @@
 # 🙋‍♂️ About me
 * 🌐 Check more about me in [my website](https://nyckoka.github.io/)
 * 📄 My resumee is [here](https://www.canva.com/design/DAE1y6Yn6BM/6NUyKJPSVvh-rW-Cd75SnQ/view?utm_content=DAE1y6Yn6BM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-* 📖 I'm currently studying Software and Computer Engineering in [ISEL](https://www.isel.pt/), in Portugal
+* 📖 I'm graduated in Software and Computer Engineering at [ISEL](https://www.isel.pt/en), in Portugal
 * 💻 Started programming in 2016.
 * ⚡Interests:
 * * 💪 Working out;
